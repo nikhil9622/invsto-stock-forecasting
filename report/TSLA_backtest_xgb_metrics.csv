@@ -1,0 +1,2 @@
+ticker,strategy,threshold,transaction_cost,market_total_return,market_annual_return,market_volatility,market_sharpe,market_max_drawdown,strategy_total_return,strategy_annual_return,strategy_volatility,strategy_sharpe,strategy_max_drawdown,strategy_win_rate,excess_return
+TSLA,long_only,0.01,0.0005,26.211940119443994,0.37090137755974983,0.5721809583336818,0.6482239091631031,-0.736322174421912,14.035975509992557,0.29540372169260576,0.3762613819777073,0.785102420396967,-0.4744383298625049,0.20689655172413793,-0.07549765586714408

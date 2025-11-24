@@ -1,0 +1,2 @@
+ticker,strategy,threshold,transaction_cost,market_total_return,market_annual_return,market_volatility,market_sharpe,market_max_drawdown,strategy_total_return,strategy_annual_return,strategy_volatility,strategy_sharpe,strategy_max_drawdown,strategy_win_rate,excess_return
+AAPL,long_only,0.01,0.0005,9.835724508376881,0.2555075458466973,0.28289110359851066,0.9032010642841668,-0.38515926953392154,0.08853056745345733,0.008133248351877231,0.05158878036934473,0.15765537183953662,-0.09281158596706551,0.0037893141341417205,-0.2473742974948201

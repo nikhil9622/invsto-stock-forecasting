@@ -1,0 +1,2 @@
+ticker,strategy,threshold,transaction_cost,market_total_return,market_annual_return,market_volatility,market_sharpe,market_max_drawdown,strategy_total_return,strategy_annual_return,strategy_volatility,strategy_sharpe,strategy_max_drawdown,strategy_win_rate,excess_return
+GOOGL,long_only,0.01,0.0005,7.9211541455777414,0.2324133272669251,0.279373080946142,0.8319102416017315,-0.44320050792859095,1.8428617686299553,0.10491650463658586,0.12995529095823402,0.8073276883378661,-0.18916620370067927,0.07843880257673361,-0.12749682263033923

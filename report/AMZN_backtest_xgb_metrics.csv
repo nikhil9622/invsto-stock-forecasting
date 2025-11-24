@@ -1,0 +1,2 @@
+ticker,strategy,threshold,transaction_cost,market_total_return,market_annual_return,market_volatility,market_sharpe,market_max_drawdown,strategy_total_return,strategy_annual_return,strategy_volatility,strategy_sharpe,strategy_max_drawdown,strategy_win_rate,excess_return
+AMZN,long_only,0.01,0.0005,7.022319504238441,0.21997870576572076,0.3187124474008808,0.6902105881325326,-0.5614526325328258,3.0602161121220615,0.1431699351643858,0.1656364603525534,0.8643624408518022,-0.22585136417566037,0.11671087533156499,-0.07680877060133495

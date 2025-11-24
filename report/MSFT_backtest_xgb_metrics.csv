@@ -1,0 +1,2 @@
+ticker,strategy,threshold,transaction_cost,market_total_return,market_annual_return,market_volatility,market_sharpe,market_max_drawdown,strategy_total_return,strategy_annual_return,strategy_volatility,strategy_sharpe,strategy_max_drawdown,strategy_win_rate,excess_return
+MSFT,long_only,0.01,0.0005,10.5494427240104,0.2631784667185779,0.2620801599617846,1.0041907283517895,-0.37148489846360266,7.410879275643417,0.22550127545489818,0.1401743996101022,1.6087193958535535,-0.1340476022882647,0.08829101932550208,-0.037677191263679743
